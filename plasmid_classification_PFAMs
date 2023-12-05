@@ -1,0 +1,171 @@
+#list of PFAM domains used for plasmid classification
+PF01076     Mob_Pre     Plasmid recombination enzyme                        
+PF01719     Rep_2     Plasmid replication protein                        
+PF01051     Rep_3     Initiator Replication protein                        
+PF03389     MobA_MobL     MobA/MobL family                        
+PF05584     Sulfolobus_pRN     Sulfolobus plasmid regulatory protein
+PF06406     StbA     StbA protein
+PF07362     CcdA     Post-segregation antitoxin CcdA
+PF10412     TrwB_AAD_bind     Type IV secretion-system coupling protein DNA-binding domain
+PF18340     TraI_2B     DNA relaxase TraI 2B/2B-like domain
+PF08401     ArdcN     N-terminal domain of anti-restriction factor ArdC
+PF02387     IncFII_repA     IncFII RepA protein family
+PF05732     RepL     Firmicute plasmid replication protein (RepL)
+PF01656     CbiA     CobQ/CobB/MinD/ParA nucleotide binding domain
+PF01672     Plasmid_parti     Putative plasmid partition protein
+PF03090     Replicase     Replicase family
+PF03432     Relaxase     Relaxase/Mobilisation nuclease domain
+PF04014     MazE_antitoxin     Antidote-toxin recognition MazE, bacterial antitoxin
+PF04796     RepA_C     Plasmid encoded RepA protein
+PF05016     ParE_toxin     ParE toxin of type II toxin-antitoxin system, parDE
+PF05309     TraE     TraE protein
+PF05713     MobC     Bacterial mobilisation protein (MobC)
+PF06290     PsiB     Plasmid SOS inhibition protein (PsiB)
+PF06613     KorB_C     KorB C-terminal beta-barrel domain
+PF06970     RepA_N     Replication initiator protein A (RepA) N-terminus
+PF06986     TraN     Type-1V conjugative transfer system mating pair stabilisation
+PF07042     TrfA     TrfA protein
+PF07506     RepB     RepB plasmid partitioning protein
+PF07820     TraC     TraC-like protein
+PF08048     RepA1_leader     Tap RepA1 leader peptide
+PF08535     KorB     KorB domain
+PF08843     AbiEii     Nucleotidyl transferase AbiEii toxin, Type IV TA system
+PF09274     ParG     ParG
+PF09673     TrbC_Ftype     Type-F conjugative transfer system pilin assembly protein
+PF09677     TrbI_Ftype     Type-F conjugative transfer system protein (TrbI_Ftype)
+PF09686     Plasmid_RAQPRD     Plasmid protein of unknown function (Plasmid_RAQPRD)
+PF10623     PilI     Plasmid conjugative transfer protein PilI
+PF10784     Plasmid_stab_B     Plasmid stability protein
+PF11130     TraC_F_IV     TraC protein
+PF11740     KfrA_N     Plasmid replication region DNA-binding N-term
+PF12477     TraW_N     Sex factor F TraW protein N terminal
+PF13728     TraF     F plasmid transfer operon protein
+PF13814     Replic_Relax     Replication-relaxation
+PF18008     Bac_RepA_C     Replication initiator protein A C-terminal domain
+PF18208     NES_C_h     Nicking enzyme C-terminal middle helical domain
+PF18607     HTH_54     ParA helix turn helix domain    
+PF05015     HigB-like_toxin     RelE-like toxin of type II toxin-antitoxin system HigB
+PF09386     ParD     Antitoxin ParD
+PF10624     TraS     Plasmid conjugative transfer entry exclusion protein TraS
+PF13729     TraF_2     F plasmid transfer operon, TraF, protein                        
+PF19456     MobI     MobI protein                        
+PF19478     TrbL_2     TrbL/VirB6 plasmid conjugal transfer like protein
+PF19514     MobC_2     MobC-like protein
+PF19590     TrbL_3     TrbL/VirB6 plasmid conjugal transfer like protein
+PF05261     Tra_M     TraM protein, DNA-binding
+PF08998     Epsilon_antitox     Bacterial epsilon antitoxin
+PF16509     KORA     TrfB plasmid transcriptional repressor
+PF06414     Zeta_toxin     Zeta toxin
+PF12642     TpcC     Conjugative transposon protein TcpC
+PF10723     RepB-RCR_reg     Replication regulatory protein RepB
+PF01446     Rep_1     Replication protein
+PF02481     DNA_processg_A     DNA recombination-mediator protein A
+PF02486     Rep_trans     Replication initiation factor
+PF02674     Colicin_V     Colicin V production protein
+PF03857     Colicin_im     Colicin immunity protein
+PF04365     BrnT_toxin     Ribonuclease toxin, BrnT, of type II toxin-antitoxin system
+PF04837     MbeB_N     MbeB-like, N-term conserved region
+PF04899     MbeD_MobD     MbeD/MobD like
+PF05513     TraA     TraA
+PF06769     YoeB_toxin     YoeB-like toxin of bacterial type II toxin-antitoxin system
+PF07764     Omega_Repress     Omega Transcriptional Repressor
+PF08085     Entericidin     Entericidin EcnA/B family
+PF09407     AbiEi_1     AbiEi antitoxin C-terminal domain
+PF09627     PrgU     PrgU-like protein
+PF09720     Unstab_antitox     Putative addiction module component
+PF09952     AbiEi_2     Transcriptional regulator, AbiEi antitoxin, Type IV TA system
+PF11459     AbiEi_3     Transcriptional regulator, AbiEi antitoxin, Type IV TA system
+PF11758     Bacteriocin_IIi     Aureocin-like type II bacteriocin
+PF12106     Colicin_E5     Colicin E5 ribonuclease domain
+PF12703     ptaRNA1_toxin     Toxin of toxin-antitoxin type 1 system
+PF12910     PHD_like     Antitoxin of toxin-antitoxin, RelE / RelB, TA system
+PF13010     pRN1_helical     Primase helical domain
+PF13032     RNaseH_pPIWI_RE     RNaseH domain of pPIWI_RE
+PF13338     AbiEi_4     Transcriptional regulator, AbiEi antitoxin
+PF13955     Fst_toxin     Toxin Fst, type I toxin-antitoxin system
+PF17194     AbiEi_3_N     Transcriptional regulator, AbiEi antitoxin N-terminal domain
+PF17413     VirB7     Outer membrane lipoprotein virB7
+PF17511     Mobilization_B     Mobilization protein B
+PF18106     Rol_Rep_N     Rolling Circle replication initiation protein N-terminal domain
+PF18154     pPIWI_RE_REase     REase associating with pPIWI_RE
+PF18156     pPIWI_RE_Y     pPIWI_RE three-gene island domain Y
+PF18157     MID_pPIWI_RE     MID domain of pPIWI_RE
+PF18790     KfrB     KfrB protein
+PF05509     TraY     TraY domain
+PF07261     DnaB_2     Replication initiation and membrane attachment
+PF08900     AcaB     Transcriptional regulator AcaB
+PF10609     ParA     NUBPL iron-transfer P-loop NTPase
+PF18155     pPIWI_RE_Z     pPIWI RE three-gene island domain Z
+PF01845     CcdB     CcdB protein
+PF18818     MPTase-PolyVal     Zincin-like metallopeptidase
+PF02452     PemK_toxin     PemK-like, MazF-like toxin of type II toxin-antitoxin system
+PF07057     TraI     DNA helicase TraI
+PF08751     TrwC     TrwC relaxase
+PF09250     Prim-Pol     Bifunctional DNA primase/polymerase, N-terminal
+PF18272     ssDNA_TraI_N     single-stranded DNA binding TraI N-terminal subdomain
+PF00239     Resolvase     Resolvase, N terminal domain
+PF01258     zf-dskA_traR     Prokaryotic dksA/traR C4-type zinc finger    
+PF01815     Rop     Rop protein
+PF02195     ParBc     ParB-like nuclease domain
+PF02796     HTH_7     Helix-turn-helix domain of resolvase
+PF03743     TrbI     Bacterial conjugation TrbI-like protein
+PF04221     RelB     RelB antitoxin
+PF05101     VirB3     Type IV secretory pathway, VirB3-like protein
+PF05818     TraT     Enterobacterial TraT complement resistance protein
+PF06122     TraH     Conjugative relaxosome accessory transposon protein
+PF07178     TraL     TraL protein                        
+PF07996     T4SS     Type IV secretion system proteins
+PF11100     TrbE     Conjugal transfer protein TrbE
+PF13595     DUF4138     Domain of unknown function (DUF4138)
+PF18812     PBECR3     phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease3
+PF02534     T4SS-DNA_transf     Type IV secretory system Conjugative DNA transfer
+PF03230     Antirestrict     Antirestriction protein
+PF03524     CagX     Conjugal transfer protein
+PF03693     ParD_antitoxin     Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH
+PF04394     DUF536     Protein of unknown function, DUF536
+PF05857     TraX     TraX protein
+PF06412     TraD     Conjugal transfer protein TraD
+PF06430     L_lactis_RepB_C     Lactococcus lactis RepB C-terminus
+PF06504     RepC     Replication protein C (RepC)
+PF06586     TraK     TraK protein                                  
+PF06834     TraU     TraU protein                        
+PF06864     PAP_PilO     Pilin accessory protein (PilO)
+PF07419     PilM     PilM
+PF07916     TraG_N     TraG-like protein, N-terminal region
+PF08775     ParB     ParB family
+PF09676     TraV     Type IV conjugative transfer system lipoprotein (TraV)
+PF09679     TraQ     Type-F conjugative transfer system pilin chaperone (TraQ)
+PF11903     ParD_like     ParD-like antitoxin of type II bacterial toxin-antitoxin system
+PF12696     TraG-D_C     TraM recognition site of TraD and TraG
+PF12615     TraD_N     F sex factor protein N terminal
+PF12844     HTH_19     Helix-turn-helix domain
+PF15738     YafQ_toxin     Bacterial toxin of type II toxin-antitoxin system, YafQ
+PF15781     ParE-like_toxin     ParE-like toxin of type II bacterial toxin-antitoxin system
+PF17394     KleE     Uncharacterized KleE stable inheritance protein
+PF17762     HTH_ParB     HTH domain found in ParB protein
+PF18090     SoPB_HTH     Centromere-binding protein HTH domain
+PF18821     LPD7     Large polyvalent protein-associated domain 7
+PF19134     DUF5817     Domain of unknown function (DUF5817)    
+PF19044     P-loop_TraG     TraG P-loop domain
+PF18064     ParB_C     Centromere-binding protein ParB C-terminal
+PF00436     SSB     Single-strand binding protein family
+PF01024     Colicin     Colicin pore forming domain
+PF01320     Colicin_Pyocin     Colicin immunity protein / pyocin immunity protein
+PF02402     Lysis_col     Lysis protein
+PF03526     Microcin     Colicin E1 (microcin) immunity protein
+PF03930     Flp_N     Recombinase Flp protein N-terminus
+PF05202     Flp_C     Recombinase Flp protein
+PF09000     Cytotoxic     Cytotoxic
+PF10892     DUF2688     Protein of unknown function (DUF2688)
+PF10907     DUF2749     Protein of unknown function (DUF2749)    
+PF11480     ImmE5     Colicin-E5 Imm protein
+PF11504     Colicin_Ia     Colicin Ia
+PF12957     DUF3846     Domain of unknown function (DUF3846)    
+PF07275     ArdA     Antirestriction protein (ArdA)
+PF14456     alpha-hel2     Alpha-helical domain 2
+PF15935     RnlA_toxin     RNase LS, bacterial toxin
+PF18809     PBECR1     phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease1
+PF18813     PBECR4     phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease4                        
+PF18814     PBECR5     phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease5
+PF18993     Rv0078B     Rv0078B-related antitoxin
+PF19034     RnlA-toxin_DBD     RNase LS, bacterial toxin DBD domain
