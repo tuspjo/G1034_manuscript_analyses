@@ -1,4 +1,4 @@
-# G1000_manuscript_analyses
+# G1034_manuscript_analyses
 scripts used for the manuscript 
 
 Flip Streptomyces genomes to DnaA in forward direction: 
@@ -11,9 +11,9 @@ Convert NCBI genbank to amino acid fasta
 https://github.com/fhsantanna/bioinfo_scripts/blob/master/gbk2faa.py
   with small changes (adding "(" ")" and converting tabs to "    " (4 spaces)
 
-Extract protocluster position and number
-from DAVIDS SCRIPT HERE
+Extract protocluster position and number from antiSMASH output
+https://github.com/dalofa/gbk_protocluster_parse
 
-contigging strains where Flye failed to correctly contig an unabmiguous assembly repeat graph
+Contigging strains where Flye failed to correctly contig an unabmiguous assembly repeat graph
 https://github.com/biosustain/npgm-contigger
 
