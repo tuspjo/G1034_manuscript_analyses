@@ -14,6 +14,6 @@ https://github.com/fhsantanna/bioinfo_scripts/blob/master/gbk2faa.py
 Extract protocluster position and number from antiSMASH output
 https://github.com/dalofa/gbk_protocluster_parse
 
-Contigging strains where Flye failed to correctly contig an unabmiguous assembly repeat graph
+Contigging strains where Flye failed to correctly contig an unambiguous assembly repeat graph
 https://github.com/biosustain/npgm-contigger
 
